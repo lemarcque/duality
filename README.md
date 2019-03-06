@@ -5,12 +5,13 @@
 </p>
 
 ## Content
-- Mathematics : 
-- Physics :
+Mathematics : Statistic.
+
+Physics : 
 
 ## Ressource
-Marble : https://rxmarbles.com
-Rx : http://reactivex.io
+	Marble : https://rxmarbles.com
+	Rx : http://reactivex.io
 
 # Credits
 Logo : Applied Duality, Inc.
